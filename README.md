@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola mundo! 👋 Soy <strong>programador69</strong> 💻🚀</h1>
+<h1 align="center">¡Hola mundo! 👋 Soy <strong>programador69 no 90</strong> 💻🚀</h1>
 <h3 align="center">El desarrollador que tu proyecto todavía no sabe que necesita, pero que va a cambiarlo TODO.</h3>
 
 <p align="center">
