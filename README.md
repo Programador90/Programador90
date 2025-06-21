@@ -75,7 +75,7 @@ DataWorm	Sistema ETL de alto rendimiento	Python, Pandas, Airflow, PostgreSQL
 AI Helper	Asistente IA para devs	LangChain, OpenAI, Express, React
 
 📈 Stats que hablan por mí (y mis commits):
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=programador69&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=programador69&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programador69&layout=compact&theme=tokyonight" alt="Lenguajes más usados" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Programador90&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programador90&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programador90&layout=compact&theme=tokyonight" alt="Lenguajes más usados" /> </p>
 🌐 ¿Dónde me encontrás?
 🔗 LinkedIn
 
