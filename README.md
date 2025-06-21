@@ -56,7 +56,7 @@ Soy `programador69`, un **arquitecto del código**, un **samurái del stack comp
 
 > Resolveme este acertijo para saber si estás listo para codear conmigo:
 
-```js
+js
 // ¿Qué devuelve esta función misteriosa?
 function soyElMejor(dev) {
   return dev === 'programador69' ? '🔥🔥🔥 Nivel Dios Desbloqueado 🔓' : '😢 Seguí practicando...';
@@ -99,4 +99,4 @@ AI Helper	Asistente IA para devs	LangChain, OpenAI, Express, React
 ✅ Freelance, full-time remoto, consultorías o misiones imposibles.
 💬 ¡Enviame un mensaje y arranquemos algo épico!
 
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300px" alt="gif coder" /> </p> <p align="center"> Hecho con 💖, café ☕ y un poco de magia 🧙 por <strong>programador69</strong> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300px" alt="gif coder" /> </p> <p align="center"> Hecho con 💖, café ☕ y un poco de magia 🧙 por <strong>programador69</strong> </p>
