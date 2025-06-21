@@ -100,3 +100,4 @@ AI Helper	Asistente IA para devs	LangChain, OpenAI, Express, React
 💬 ¡Enviame un mensaje y arranquemos algo épico!
 
 <p align="center"> <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300px" alt="gif coder" /> </p> <p align="center"> Hecho con 💖, café ☕ y un poco de magia 🧙 por <strong>programador69</strong> </p>
+### By Tun tun tun Zahur
